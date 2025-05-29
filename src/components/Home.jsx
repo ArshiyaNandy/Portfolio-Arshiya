@@ -11,7 +11,7 @@ const Home = () => {
                     -- Web Developer || ML Enthusiast
                 </h2>
                 <p className='max-w-md py-4 text-gray-500'>
-               I have 2+ years of experience in building responsive web applications with React, Tailwind CSS, JavaScript, TypeScript, and Next.js. Additionally, I develop AI-driven solutions using Python, Pandas, scikit-learn, and Hugging Face. I’m dedicated to creating impactful, user-focused digital products.
+               -- I have 2+ years of experience in building responsive web applications with React, Tailwind CSS, JavaScript, TypeScript, and Next.js. Additionally, I develop AI-driven solutions using Python, Pandas, scikit-learn, and Hugging Face. I’m dedicated to creating impactful, user-focused digital products.
 
 
                 </p>
