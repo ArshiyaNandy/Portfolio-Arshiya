@@ -10,19 +10,16 @@ return (
                 </p>
             </div>
             <p className='mt-20 text-xl'>
-                Hi everyone , my name is Suprava Modak.
-                I have done my BTech from IEM, Kolkata.
-                It has been two years I have been into developing
-                websites and using web application technologies. It 
-                has always been a dream for me to become a Web Developer.
-                Recently I have been going through backend technologies 
-                as well as Machine Learning using Python. I just love 
-                coding since my school days and maintained it through my 
-                college life. Ask me anything under the sun about these.
-                I am also into football and singing as I always try to 
-                keep my mind working and into some action. I hate being lazy 
-                and my only aim right now is to grab the job offer at my 
-                level best.
+                Hello, I'm Arshiya Nandy.
+            I am currently pursuing my B.Tech from IEM, Kolkata.
+            Over the past few years, I have developed a strong interest in
+            developing websites and working with modern web technologies.
+            Becoming a skilled Web Developer has always been a dream of mine,
+            and recently I have also been diving deep into Machine Learning and Artificial Intelligence.
+            My passion for coding started back in school and has stayed strong throughout college.
+            I love building useful digital solutions and always seek new challenges.
+            Apart from tech, I enjoy drawing, dancing, singing and exploring new ideas to keep my creativity active.
+            My current focus is on growing my skillset and preparing myself to secure an impactful role in the tech industry.
             </p>
         </div>
     </div>
