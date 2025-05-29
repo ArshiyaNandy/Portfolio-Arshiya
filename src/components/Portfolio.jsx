@@ -30,7 +30,8 @@ return (
                 <p className='inline text-4xl font-bold border-b-4 border-gray-500'>Portfolio</p>
                 <p className='py-6'>Check out some of my work right here</p>
             </div>
-            <div className='grid gap-8 px-12 sm:grid-cols-2 md:grid-cols-3 sm:px-0'>
+            <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 px-4'>
+
             {
                 portfolios.map(({id,src,href}) => (
                 <div key={id} className='rounded-lg shadow-md shadow-gray-600'>
