@@ -1,7 +1,7 @@
 import React from 'react';
 import arrayDestruct from '../assets/portfolio/buildfitness.jpg'
 import instalNode from '../assets/portfolio/weather.png'
-import navbar from '../assets/portfolio/E-shop.jpg'
+import navbar from '../assets/portfolio/ai-medical.jpg'
 
 
 const Portfolio = () => {
@@ -9,18 +9,18 @@ const Portfolio = () => {
         {
             id:1,
             src:arrayDestruct,
-            href:"https://build-fitness.vercel.app/",  
+            href:"https://ai-interviewer-by-arshiya.vercel.app/sign-in",  
         },
         {
             id:2,
             src:instalNode,
-            href:"",
+            href:"https://urai-arshiya.vercel.app/",
             
         },
         {
             id:3,
             src:navbar,
-            href:"https://e-shop-hazel-chi.vercel.app/",
+            href:"https://ai-medical-assistant-arshiya.streamlit.app/",
         },
     ]  
 return (
