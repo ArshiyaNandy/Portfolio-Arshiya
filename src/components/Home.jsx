@@ -4,7 +4,7 @@ import {MdArrowRightAlt} from "react-icons/md";
 import { Link } from "react-scroll";
 const Home = () => {
     return (
-    <div name="home" className='w-full h-screen text-white bg-gradient-to-b from-black to-gray-800'>
+    <div name="home" className='w-full h-screen text-white bg-gradient-to-b from-black to-gray-1000'>
         <div className='flex flex-col items-center justify-center h-full max-w-screen-lg px-4 mx-auto md:flex-row'>
             <div className='flex flex-col justify-center h-full'>
                 <h2 className='text-4xl font-bold text-white sm:text-6xl'>
