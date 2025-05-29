@@ -1,6 +1,6 @@
 import React from 'react';
-import arrayDestruct from '../assets/portfolio/buildfitness.jpg'
-import instalNode from '../assets/portfolio/weather.png'
+import arrayDestruct from '../assets/portfolio/ai-mock.jpg'
+import instalNode from '../assets/portfolio/urai.jpg'
 import navbar from '../assets/portfolio/ai-medical.jpg'
 
 
