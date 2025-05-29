@@ -7,8 +7,8 @@ const Home = () => {
     <div name="home" className='w-full h-screen text-white bg-gradient-to-b from-black to-gray-800'>
         <div className='flex flex-col items-center justify-center h-full max-w-screen-lg px-4 mx-auto md:flex-row'>
             <div className='flex flex-col justify-center h-full'>
-                <h2 className='text-4xl font-bold text-white sm:text-7xl'>
-                    Web Developer || ML Enthusiast
+                <h2 className='text-4xl font-bold text-white sm:text-6xl'>
+                    -- Web Developer || ML Enthusiast
                 </h2>
                 <p className='max-w-md py-4 text-gray-500'>
                I have 2+ years of experience in building responsive web applications with React, Tailwind CSS, JavaScript, TypeScript, and Next.js. Additionally, I develop AI-driven solutions using Python, Pandas, scikit-learn, and Hugging Face. I’m dedicated to creating impactful, user-focused digital products.
