@@ -12,7 +12,7 @@ const SocialLinks = () => {
                 LinkedIn <FaLinkedin size={30}/>
                 </>
             ),
-            href:'https://linkedin.com/in/suprava-modak-7baa18228',
+            href:'https://linkedin.com/in/arshiya-nandy-2194b7290',
             style:'rounded-tr-md'
         },
         {
@@ -22,7 +22,7 @@ const SocialLinks = () => {
                 GitHub <FaGithub size={30}/>
                 </>
             ),
-            href:'https://github.com/SupravaModak',
+            href:'https://github.com/ArshiyaNandy',
         },
         {
             id:3,
@@ -31,7 +31,7 @@ const SocialLinks = () => {
                 Mail <HiOutlineMail size={30}/>
                 </>
             ),
-            href:'mailto:modaksuprava.74@gmail.com',
+            href:'mailto:arshiyanandy1731@gmail.com',
         },
         {
             id:4,
