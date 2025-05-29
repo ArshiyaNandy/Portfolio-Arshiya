@@ -8,17 +8,20 @@ const Portfolio = () => {
     {
       id: 1,
       src: arrayDestruct,
-      href: 'https://ai-interviewer-by-arshiya.vercel.app/sign-in',
+      demo: 'https://ai-interviewer-by-arshiya.vercel.app/sign-in',
+      code: 'https://github.com/ArshiyaNandy/Arshiya-AI-Interviewer.git',
     },
     {
       id: 2,
       src: instalNode,
-      href: 'https://urai-arshiya.vercel.app/',
+      demo: 'https://urai-arshiya.vercel.app/',
+      code: 'https://github.com/ArshiyaNandy/URAI.git',
     },
     {
       id: 3,
       src: navbar,
-      href: 'https://ai-medical-assistant-arshiya.streamlit.app/',
+      demo: 'https://ai-medical-assistant-arshiya.streamlit.app/',
+      code: 'https://github.com/ArshiyaNandy/AI-Medical-Assistant.git',
     },
   ];
 
@@ -31,7 +34,7 @@ const Portfolio = () => {
         </div>
 
         <div className='grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 px-4'>
-          {portfolios.map(({ id, src, href }) => (
+          {portfolios.map(({ id, src, demo, code }) => (
             <div key={id} className='rounded-lg shadow-md shadow-gray-600'>
               <img
                 src={src}
@@ -39,11 +42,10 @@ const Portfolio = () => {
                 className='duration-200 rounded-md hover:scale-105'
               />
               <div className='flex items-center justify-center'>
-                <a href={href} target="_blank" rel="noopener noreferrer" className='w-1/2'>
+                <a href={demo} target="_blank" rel="noopener noreferrer" className='w-1/2'>
                   <button className='w-full px-6 py-3 m-4 duration-200 hover:scale-105'>Demo</button>
                 </a>
-                {/* You can add GitHub repo links here if available */}
-                <a href={href} target="_blank" rel="noopener noreferrer" className='w-1/2'>
+                <a href={code} target="_blank" rel="noopener noreferrer" className='w-1/2'>
                   <button className='w-full px-6 py-3 m-4 duration-200 hover:scale-105'>Code</button>
                 </a>
               </div>
