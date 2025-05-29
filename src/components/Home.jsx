@@ -8,14 +8,10 @@ const Home = () => {
         <div className='flex flex-col items-center justify-center h-full max-w-screen-lg px-4 mx-auto md:flex-row'>
             <div className='flex flex-col justify-center h-full'>
                 <h2 className='text-4xl font-bold text-white sm:text-7xl'>
-                    I'm a Front End Developer, ML Enthusiast
+                    Web Developer || ML Enthusiast
                 </h2>
                 <p className='max-w-md py-4 text-gray-500'>
-                With over two years of experience in crafting modern, responsive web applications,
-                I specialize in technologies like React, Tailwind CSS, JavaScript, Typescript and Next.js.
-                    My development journey also expands into the realm of Machine Learning,
-                    where I’ve built AI based systems using tools such as Python, Pandas, NumPy, scikit-learn, and Hugging Face.
-                            I love to turn ideas into impactful, user-focused digital solutions.
+               I have 2+ years of experience in building responsive web applications with React, Tailwind CSS, JavaScript, TypeScript, and Next.js. Additionally, I develop AI-driven solutions using Python, Pandas, scikit-learn, and Hugging Face. I’m dedicated to creating impactful, user-focused digital products.
 
 
                 </p>
